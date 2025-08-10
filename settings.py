@@ -31,4 +31,3 @@ INSTALLED_APPS = [
 
 
 AUTH_USER_MODEL = "db.User"
-
